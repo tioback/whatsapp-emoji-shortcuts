@@ -1,0 +1,24 @@
+{
+  "name": "whatsapp-emoji-shortcuts",
+  "version": "1.0.0",
+  "description": "A catalog of the names/shortcuts that WhatsApp uses for emojis on the web and desktop versions.",
+  "main": "emoji-reader.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tioback/whatsapp-emoji-shortcuts.git"
+  },
+  "keywords": [
+    "emoji",
+    "whatsapp",
+    "shortcut"
+  ],
+  "author": "Renato Pereira Back (renatopb@gmail.com)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tioback/whatsapp-emoji-shortcuts/issues"
+  },
+  "homepage": "https://github.com/tioback/whatsapp-emoji-shortcuts#readme"
+}
